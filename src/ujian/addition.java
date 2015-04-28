@@ -9,5 +9,3 @@ package ujian;
  * @author SBC4
  */
 public class addition {
-    
-}
